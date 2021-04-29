@@ -1,5 +1,7 @@
 # Printer-and-User-Account-Management
 
+Good example of multi level ErrorLevel menu in batch.
+
 You may need to modify this bat file to work with your environment properly.
 Find the following in the bat and replace it with your required values. 
 
